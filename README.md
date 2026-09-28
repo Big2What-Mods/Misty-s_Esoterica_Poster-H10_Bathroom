@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="head_misty_wall_pic.png" alt="Misty's Esoterica Poster" width="100%">
+
 # Misty's Esoterica Poster - H10 Bathroom
 
 **Bring some color, light, and spiritual energy into V's H10 apartment.**
@@ -18,6 +20,10 @@ This mod replaces the vanilla shower/toilet directional arrows in V's H10 bathro
 The poster was designed to reflect Misty's bright and hopeful personality, using colorful tarot imagery, chakras, crystals, candles, flowers, and spiritual symbolism rather than the darker aesthetic often associated with Night City.
 
 The original bathroom decal placement is retained, allowing the poster to integrate naturally into V's apartment while giving the otherwise plain bathroom wall a completely different personality.
+
+<p align="center">
+  <img src="head_EL_misty_wall_pic.png" alt="Misty's Esoterica poster installed in V's H10 bathroom" width="900">
+</p>
 
 ---
 
